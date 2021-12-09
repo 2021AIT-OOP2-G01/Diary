@@ -1,4 +1,5 @@
 from diaries.DiarySample import DiarySample
+from diaries.GotoDiary import GotoDiary
 from diaries.YamamotoDiary import YamamotoDiary
 from diaries.TsunodaDiary import TsunodaDiary
 from diaries.AihataDiary import AihataDiary
@@ -7,6 +8,7 @@ from diaries.AihataDiary import AihataDiary
 # ↓のリストには、メンバーの各日記が格納されます。
 diaries = [
   DiarySample(),
+  GotoDiary(),
   YamamotoDiary(),
   k20077_diary
   TsunodaDiary(),
