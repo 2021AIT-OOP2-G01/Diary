@@ -13,6 +13,7 @@ diaries = [
   DiarySample(),
   AoyamaDiary(),
   ShogoDiary(),
+  NakaneDiary(),
   FumaDaiary(),
   GotoDiary(),
   YamamotoDiary(),
