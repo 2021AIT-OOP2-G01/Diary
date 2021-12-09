@@ -14,8 +14,6 @@ diaries = [
   AoyamaiDiary(),
   GotoDiary(),
   YamamotoDiary(),
-  NakaneDiary(),
-  k20077_diary
   TsunodaDiary(),
   AihataDiary(),
   ] 
