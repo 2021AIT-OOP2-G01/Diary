@@ -1,4 +1,5 @@
 from diaries.DiarySample import DiarySample
+from diaries.NakaneDiary import NakaneDiary
 from diaries.FumaDaiary import FumaDaiary
 from diaries.AoyamaiDiary import AoyamaiDiary
 from diaries.GotoDiary import GotoDiary
@@ -13,6 +14,7 @@ diaries = [
   AoyamaiDiary(),
   GotoDiary(),
   YamamotoDiary(),
+  NakaneDiary(),
   k20077_diary
   TsunodaDiary(),
   AihataDiary(),
