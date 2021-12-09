@@ -10,7 +10,6 @@ diaries = [
   DiarySample(),
   GotoDiary(),
   YamamotoDiary(),
-  k20077_diary
   TsunodaDiary(),
   AihataDiary(),
 ] 
